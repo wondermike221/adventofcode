@@ -1,0 +1,1 @@
+const input = $0.textContent;
